@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="669ea055-a0df-4447-8ef2-b748abcee965" name="Changes" comment="commit 2">
+      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/AddPost.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AddPost.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;nursuultaan&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/nursuultaan/karavanv01.git",
+    "accountId": "6d9f57c3-767a-47dd-a339-e5c90aeddc60"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "nursuultaan",
+    "repository": "Karavan"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2iOyxzMQxJx8XfhPtGxnBOqm9b1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/nursu/OneDrive/Desktop/Seytech/Karavan",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "node",
+    "nodejs_package_manager_path": "npm",
+    "npm.npm dev.executor": "Run",
+    "npm.yarn.executor": "Run",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.1.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="Push.Settings">
+    <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="yarn" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="start" />
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-WS-241.17890.13" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="669ea055-a0df-4447-8ef2-b748abcee965" name="Changes" comment="" />
+      <created>1719376168108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1719376168108</updated>
+      <workItem from="1719376169165" duration="10324000" />
+      <workItem from="1719412103824" duration="9401000" />
+      <workItem from="1719461535657" duration="9249000" />
+      <workItem from="1719529867719" duration="35000" />
+      <workItem from="1719623554429" duration="1464000" />
+      <workItem from="1719633421065" duration="4689000" />
+      <workItem from="1719861449834" duration="132000" />
+      <workItem from="1724556173666" duration="8530000" />
+      <workItem from="1724632473671" duration="679000" />
+      <workItem from="1724633278250" duration="70000" />
+      <workItem from="1724634207629" duration="2573000" />
+      <workItem from="1724641253180" duration="19000" />
+      <workItem from="1724648825301" duration="7960000" />
+      <workItem from="1724677839257" duration="2602000" />
+      <workItem from="1724724610631" duration="7760000" />
+      <workItem from="1724765313703" duration="5852000" />
+      <workItem from="1724814709204" duration="15000" />
+      <workItem from="1724853542581" duration="908000" />
+      <workItem from="1724854791434" duration="5270000" />
+      <workItem from="1724896684397" duration="7994000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1719465637599</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719465637599</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add dropdown menu">
+      <option name="closed" value="true" />
+      <created>1719469070008</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719469070008</updated>
+    </task>
+    <task id="LOCAL-00003" summary="made changes">
+      <option name="closed" value="true" />
+      <created>1719469114022</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719469114022</updated>
+    </task>
+    <task id="LOCAL-00004" summary="made changesasdas">
+      <option name="closed" value="true" />
+      <created>1719469860845</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1719469860845</updated>
+    </task>
+    <task id="LOCAL-00005" summary="made changesasdas">
+      <option name="closed" value="true" />
+      <created>1724901037170</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724901037170</updated>
+    </task>
+    <task id="LOCAL-00006" summary="made changesasdas">
+      <option name="closed" value="true" />
+      <created>1724901295044</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1724901295044</updated>
+    </task>
+    <task id="LOCAL-00007" summary="made changesasdas">
+      <option name="closed" value="true" />
+      <created>1724901398539</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1724901398539</updated>
+    </task>
+    <task id="LOCAL-00008" summary="iyufyt">
+      <option name="closed" value="true" />
+      <created>1724901495174</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1724901495174</updated>
+    </task>
+    <task id="LOCAL-00009" summary="iyufyt">
+      <option name="closed" value="true" />
+      <created>1724901817957</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724901817957</updated>
+    </task>
+    <task id="LOCAL-00010" summary="iyufyt">
+      <option name="closed" value="true" />
+      <created>1724902198828</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1724902198828</updated>
+    </task>
+    <task id="LOCAL-00011" summary="iyufyt">
+      <option name="closed" value="true" />
+      <created>1724902608700</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1724902608700</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit 2">
+      <option name="closed" value="true" />
+      <created>1724904007981</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1724904007981</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <MESSAGE value="add dropdown menu" />
+    <MESSAGE value="made changes" />
+    <MESSAGE value="made changesasdas" />
+    <MESSAGE value="iyufyt" />
+    <MESSAGE value="commit 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 2" />
+  </component>
+</project>
