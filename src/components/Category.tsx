@@ -6,10 +6,8 @@ const Category = () => {
 
     const categories = ['all','auto','realty','jobs','other'];
     const dispatch = useDispatch();
+    // @ts-ignore
     const filterData = useSelector(state => state.filter);
-
-
-
 
 
 

@@ -2,6 +2,7 @@
 
 
 
+// @ts-ignore
 const Post= ({data}) => {
 
     return (

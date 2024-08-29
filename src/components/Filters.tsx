@@ -80,16 +80,19 @@ const Filters = ({ setPosts }) => {
 
     const handleCascaderChange = (value: string[]) => {
         setSelectedLocations(value);
+        // @ts-ignore
         dispatch(updateFilterData({ locations: value }));
     };
 
     const handlePriceChangeFrom = (value:number) => {
         setPriceFrom(value);
+        // @ts-ignore
         dispatch(updateFilterData({ priceFrom: value }));
     };
 
     const handlePriceChangeTo = (value:number) => {
         setPriceTo(value);
+        // @ts-ignore
         dispatch(updateFilterData({ priceTo: value }));
     };
 

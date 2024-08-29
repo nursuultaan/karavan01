@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="669ea055-a0df-4447-8ef2-b748abcee965" name="Changes" comment="commit 2">
-      <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Category.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Category.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Filters.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Filters.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Post.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Post.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Posts.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Posts.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/AddPost.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/AddPost.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,7 +36,7 @@
 }</component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/nursuultaan/karavanv01.git",
+    "url": "https://github.com/nursuultaan/karavan01.git",
     "accountId": "6d9f57c3-767a-47dd-a339-e5c90aeddc60"
   },
   "recentNewPullRequestHead": {
@@ -58,7 +62,7 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/nursu/OneDrive/Desktop/Seytech/Karavan",
+    "last_opened_file_path": "C:/Users/nursu/WebstormProjects/karavan01",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,7 +71,7 @@
     "nodejs_package_manager_path": "npm",
     "npm.npm dev.executor": "Run",
     "npm.yarn.executor": "Run",
-    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.1.4\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "ts.external.directory.path": "C:\\Users\\nursu\\WebstormProjects\\karavan01\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -118,6 +122,7 @@
       <workItem from="1724853542581" duration="908000" />
       <workItem from="1724854791434" duration="5270000" />
       <workItem from="1724896684397" duration="7994000" />
+      <workItem from="1724910119839" duration="743000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <option name="closed" value="true" />

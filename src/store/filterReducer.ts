@@ -16,10 +16,14 @@ const filterSlice = createSlice({
         // Define your actions here
         updateFilterData: (state, action:PayloadAction) => {
             console.log("Payload;",action.payload);
+            // @ts-ignore
             if (action.payload.locations) {
+                // @ts-ignore
                 state.locations = [...action.payload.locations.flat()];
             }
+            // @ts-ignore
             state.priceFrom = action.payload.priceFrom;
+            // @ts-ignore
             state.priceTo = action.payload.priceTo;
            console.log("Locations :",state.locations);
         },

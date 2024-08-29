@@ -1,8 +1,7 @@
 import Post from "./Post.tsx";
 import Category from "./Category.tsx";
 import Filters from "./Filters.tsx";
-import {Button} from "antd";
-import {useEffect, useState} from "react";
+import {useState} from "react";
 import {post} from "../util/types.ts";
 
 const Posts = () => {

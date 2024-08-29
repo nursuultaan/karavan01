@@ -20,21 +20,23 @@ const states = [
     "Virginia", "Washington", "West Virginia", "Wisconsin", "Wyoming"
 ];
 
+
 const props = {
     name: 'file',
     action: 'https://660d2bd96ddfa2943b33731c.mockapi.io/api/upload',
     headers: {
         authorization: 'authorization-text',
     },
+    // @ts-ignore
     onChange(info) {
         if (info.file.status !== 'uploading') {
             console.log(info.file, info.fileList);
         }
-        if (info.file.status === 'done') {
-           
-        } else if (info.file.status === 'error') {
-
-        }
+        // if (info.file.status === 'done') {
+        //
+        // } else if (info.file.status === 'error') {
+        //
+        // }
     },
 };
 
@@ -46,11 +48,12 @@ const AddPost: React.FC = () => {
     const [images,setImages] = useState<File[]>([]);
 
 
+    // @ts-ignore
     function handleImages ({ file}){
         setImages((prev)=>[file,...prev]);
     }
-
-    const normFile = (e: any) => {
+    // @ts-ignore
+    const normFile = (e) => {
         console.log('Upload event:', e);
         if (Array.isArray(e)) {
             return e;
@@ -58,7 +61,9 @@ const AddPost: React.FC = () => {
         return e?.fileList;
     };
 
+    // @ts-ignore
     const uploadFile = async (file) => {
+        // @ts-ignore
         const s3Client = new S3Client({
             region: "us-east-1",
             credentials: {
@@ -83,11 +88,12 @@ const AddPost: React.FC = () => {
         }
     };
 
-
-    const handleSubmit = async (values: any) => {
+    // @ts-ignore
+    const handleSubmit = async (values) => {
         console.log('Form values:', values);
         let imgUrls:string[] =[];
         try {
+            // @ts-ignore
             imgUrls = await Promise.all(images.map(uploadFile));
             console.log("Urls:", imgUrls);
         } catch (err) {
